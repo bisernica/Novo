@@ -1,0 +1,30 @@
+body {
+    background-color: burlywood;
+}
+.poster {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 25%;
+    width: 50%;
+    border: 2px solid white;
+    padding: 30px;
+}
+.secondposter {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 25%;
+    margin-bottom: 25%;
+    width: 50%;
+    border: 2px solid white;
+    padding: 30px;
+}
+.lista {
+    background-color: brown;
+    font-size: 20px;
+    color: white;
+    border: 5px solid white;
+    margin-right: 50%;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
